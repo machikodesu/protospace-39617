@@ -20,7 +20,7 @@ development:
   username: root
   password:
   host: localhost
-database: protospace_39617_development
+  database: protospace_39617_development
 
 
 # Warning: The database defined as "test" will be erased and
