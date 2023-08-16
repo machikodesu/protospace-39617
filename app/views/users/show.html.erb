@@ -1,6 +1,7 @@
 <div class="main">
   <div class="inner">
     <div class="user__wrapper">
+    <% user = User.find(params[:id]) %>
       <h2 class="page-heading">
         <%= "#{user.name}さんの情報"%>
       </h2>
